@@ -1,0 +1,22 @@
+body{
+background-color: rgb(226, 218, 233);
+}
+
+h1{color: crimson;
+}
+
+h2{color: darkgreen;
+}
+
+hr{
+    /*
+    border-style: dotted;
+    width: 50px;
+    border-left: none;
+    border-bottom: none;
+*/
+
+border: none;
+
+
+}
